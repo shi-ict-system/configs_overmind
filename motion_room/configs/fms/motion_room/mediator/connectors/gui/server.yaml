@@ -1,0 +1,3 @@
+timer: 20 #ms
+thread_pool: 10 # >0
+port: 51001

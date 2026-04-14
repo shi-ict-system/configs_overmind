@@ -1,0 +1,178 @@
+total_number: 22
+list:
+  - id: 1
+    type: 1
+    pose: [2.277, 10.677, -180]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 2
+    type: 1
+    pose: [2.951, 16.496, 91.1]
+    radius_speed_accel: [0.9, 0.1, 0.1]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 3
+    type: 1
+    pose: [6.283, 14.188, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 4
+    type: 1
+    pose: [6.128, 7.569, 0.4]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 5
+    type: 1
+    pose: [6.309, 5.619, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 6
+    type: 0
+    pose: [3.488, 10.681, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 7
+    type: 0
+    pose: [3.4954, 12.2798, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 8
+    type: 0
+    pose: [3.495, 14.174, 0.3]
+    radius_speed_accel: [0.1, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 9
+    type: 0
+    pose: [2.961, 14.174, 0.3]
+    radius_speed_accel: [0.1, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 10
+    type: 0
+    pose: [2.961, 15.308, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 11
+    type: 0
+    pose: [5.306, 15.308, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 12
+    type: 0
+    pose: [5.306, 14.198, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 13
+    type: 0
+    pose: [4.5805, 14.198, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 14
+    type: 0
+    pose: [4.5735, 11.9644, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 15
+    type: 0
+    pose: [4.5735, 9.9139, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 16
+    type: 0
+    pose: [4.575, 8.718, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 17
+    type: 0
+    pose: [4.579, 7.569, 0.3]
+    radius_speed_accel: [0.3, 0.1, 0.2]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 18
+    type: 0
+    pose: [4.5735, 5.6105, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 19
+    type: 0
+    pose: [3.3962, 5.6105, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 20
+    type: 0
+    pose: [3.4047, 6.9834, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 21
+    type: 0
+    pose: [3.3962, 8.4804, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+  - id: 22
+    type: 0
+    pose: [3.471, 9.522, 0.3]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: scenario_2
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]

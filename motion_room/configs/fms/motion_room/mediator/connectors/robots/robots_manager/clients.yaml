@@ -1,0 +1,72 @@
+timer: 20 #ms
+thread_pool: 4 # >0
+server_list:
+- id: [0,111]
+  use: true
+  ip: 127.0.0.1
+  port: 52001
+  period: 50 #ms
+- id: [0,222]
+  use: true
+  ip: 127.0.0.1
+  port: 52002
+  period: 50 #ms
+- id: [0,333]
+  use: true
+  ip: 127.0.0.1
+  port: 52003
+  period: 50 #ms
+
+
+
+# - id: [0,111]
+#   use: true
+#   ip: 192.168.100.96
+#   port: 52001
+#   period: 50 #ms
+
+
+
+
+
+
+# - id: 3
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52003
+#   period: 20 #ms
+# - id: 4
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52004
+#   period: 20 #ms
+# - id: 5
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52005
+#   period: 20 #ms
+# - id: 6
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52006
+#   period: 20 #ms
+# - id: 7
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52007
+#   period: 20 #ms
+# - id: 8
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52008
+#   period: 20 #ms
+# - id: 9
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52009
+#   period: 20 #ms
+# - id: 10
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52010
+#   period: 20 #ms

@@ -1,0 +1,19 @@
+connector_lists:
+- name: fms
+  use: true
+- name: gui
+  use: false
+- name: joystick
+  use: true
+- name: motions
+  use: true
+- name: localizers
+  use: true
+- name: safety_plc
+  use: true
+- name: load_handler
+  use: false
+- name: manipulators
+  use: true
+
+

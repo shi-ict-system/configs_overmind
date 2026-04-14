@@ -1,0 +1,12 @@
+connector_lists:
+- name: robots
+  use: true
+- name: gui
+  use: true
+- name: wms
+  use: false
+- name: remote_io
+  use: false
+- name: manipulators
+  use: false
+

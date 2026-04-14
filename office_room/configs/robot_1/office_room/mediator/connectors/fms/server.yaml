@@ -1,0 +1,3 @@
+timer: 50 #ms
+thread_pool: 1 # >0
+port: 52001

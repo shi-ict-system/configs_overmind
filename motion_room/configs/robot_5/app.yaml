@@ -1,0 +1,7 @@
+id: 5
+name: Robot_5
+type: fulfillment
+timer: 50 # ms
+version: motion_room
+site: sejong
+environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

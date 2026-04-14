@@ -1,0 +1,7 @@
+id: [0, 222]
+name: Kukulza
+type: fulfillment
+timer: 20 # ms
+version: motion_room
+site: sejong
+environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

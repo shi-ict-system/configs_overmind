@@ -1,0 +1,6 @@
+map: building_4_sector_3
+pose: [3.390000264225606, 5.6277826004083069, 90.000037872921268]
+update_conditions:
+  - distance: 0.5
+    angle: 10
+    last_move_elapse: 3

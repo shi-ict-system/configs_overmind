@@ -1,0 +1,42 @@
+# GUI FMS에서 보낼 기본 작업 요청 설정
+TaskRequest:
+  - task_num: 1
+    task_id: 111
+    cmd: "job"             # Task::Cmd::job
+    from: "gui_fms"        # Task::From::gui_fms
+    target_task_id: 99
+    robot_id: 1
+    go_from:
+      node_id: 14
+      layer: 1
+    go_to:
+      node_id: 11
+      layer: 1
+
+      
+  - task_num: 2
+    task_id: 222
+    cmd: "push"             # Task::Cmd::job
+    from: "gui_fms"        # Task::From::gui_fms
+    target_task_id: 100
+    robot_id: 1
+    go_from:
+      node_id: 14
+      layer: 1
+    go_to:
+      node_id: 103 #122 #103 #223
+      layer: 1
+
+
+  - task_num: 3
+    task_id: 102
+    cmd: "del"             # Task::Cmd::job
+    from: "gui_fms"        # Task::From::gui_fms
+    target_task_id: 99
+    robot_id: 1
+    go_from:
+      node_id: -1
+      layer: -1
+    go_to:
+      node_id: -1
+      layer: -1

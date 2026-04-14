@@ -1,0 +1,7 @@
+# log 설정값 조정하기.
+logging:
+   path: "./logs/gui_fms"
+   level: "INFO"
+   async:
+       queue_size: 8192
+       threads: 1
