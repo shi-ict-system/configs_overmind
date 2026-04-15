@@ -6,12 +6,12 @@ connector_lists:
 - name: joystick
   use: true
 - name: motions
-  use: true
+  use: false
 - name: localizers
   use: true
 - name: safety_plc
   use: true
 - name: load_handler
-  use: true
-- name: manipulators
   use: false
+- name: manipulators
+  use: true

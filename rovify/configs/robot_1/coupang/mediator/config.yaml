@@ -12,6 +12,6 @@ connector_lists:
 - name: safety_plc
   use: true
 - name: load_handler
-  use: true
-- name: manipulators
   use: false
+- name: manipulators
+  use: true

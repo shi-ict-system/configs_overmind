@@ -1,0 +1,7 @@
+id: [123,4567]
+name: Yggdrasil
+type: fulfillment
+timer: 80 # ms
+version: rovify
+site: sejong
+environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
