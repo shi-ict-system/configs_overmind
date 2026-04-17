@@ -1,4 +1,4 @@
-total_number: 168
+total_number: 184
 list:
   - id_from_to: [1, 2]
     accel_speed: [0.5, -0.5]
@@ -1174,5 +1174,117 @@ list:
     motion: 1
     dof: 1
     safety_zone: 9
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1096, 7]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [7, 1096]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1097, 1014]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1014, 1097]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [6, 1098]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1098, 6]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [5, 1099]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1099, 5]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1034, 1100]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1035, 1101]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1101, 1035]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [9, 1102]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1102, 9]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1103, 10]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [10, 1103]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1100, 1034]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
     enable_sensors: 15
     cost_time: 0
