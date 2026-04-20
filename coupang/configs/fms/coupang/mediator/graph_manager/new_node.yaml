@@ -1,4 +1,4 @@
-total_number: 121
+total_number: 124
 list:
   - id: 1
     type: 1
@@ -963,6 +963,30 @@ list:
   - id: 1103
     type: 3
     pose: [14.815, 6.39, 0]
+    radius_speed_accel: [0.5, 0.5, 1]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [0, 0]
+  - id: 1104
+    type: 1
+    pose: [19.956, 10.902, 0]
+    radius_speed_accel: [0.5, 0.5, 1]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [0, 0]
+  - id: 1105
+    type: 1
+    pose: [19.97, 9.299, 0]
+    radius_speed_accel: [0.5, 0.5, 1]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [0, 0]
+  - id: 1106
+    type: 1
+    pose: [19.956, 7.697, 0]
     radius_speed_accel: [0.5, 0.5, 1]
     map_name: conveyor_map
     localizer_main_sub: [1, 0]

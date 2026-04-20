@@ -1,4 +1,4 @@
-total_number: 184
+total_number: 190
 list:
   - id_from_to: [1, 2]
     accel_speed: [0.5, -0.5]
@@ -1283,6 +1283,48 @@ list:
     cost_time: 0
   - id_from_to: [1100, 1034]
     accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1104, 1052]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1052, 1104]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1105, 1053]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1053, 1105]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1106, 1054]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 13
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1054, 1106]
+    accel_speed: [0.5, 0.5]
     motion: 1
     dof: 1
     safety_zone: 13
