@@ -3,19 +3,19 @@ thread_pool: 1 # >0
 server_list:
 - id: [0,111]
   use: true
-  ip: 127.0.0.1
+  ip: 192.168.100.12
   port: 52001
   period: 50 #ms
-- id: [0,222]
-  use: true
-  ip: 127.0.0.1
-  port: 52002
-  period: 20 #ms
-- id: [0,333]
-  use: true
-  ip: 127.0.0.1
-  port: 52003
-  period: 20 #ms
+# - id: [0,222]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52002
+#   period: 20 #ms
+# - id: [0,333]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 52003
+#   period: 20 #ms
 # - id: 4
 #   use: true
 #   ip: 127.0.0.1

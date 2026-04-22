@@ -4,4 +4,4 @@ type: fulfillment
 timer: 20 # ms
 version: loadrunner_motion_room
 site: sejong
-environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
+environment mode: 1     # 0 : simulation, 1 : real, 2: test_in_place
