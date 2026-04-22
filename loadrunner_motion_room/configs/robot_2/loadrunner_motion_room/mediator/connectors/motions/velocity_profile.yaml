@@ -1,0 +1,26 @@
+driver type: differential
+wheel:
+  base: 0.5           # m 
+  radius: 0.08        # m
+
+
+#accel, decel
+
+constraints:
+- type: manual
+  max_icc_radius:  10.0          # m
+  max_wheel_speed:  0.6         # m/s
+  max_linear_speed: 0.5         # m/s
+  max_angular_speed: 45         # ˚/s
+
+- type: manual_turbo
+  max_icc_radius: 10.0          # m
+  max_wheel_speed:  1.2         # m/s
+  max_linear_speed: 1.0         # m/s 
+  max_angular_speed: 90         # ˚/s
+
+- type: automatic
+  max_icc_radius: -1.0          # m   : not used
+  max_wheel_speed:  1.2         # m/s
+  max_linear_speed: 1.0         # m/s
+  max_angular_speed: 90         # ˚/s
