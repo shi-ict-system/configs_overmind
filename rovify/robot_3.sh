@@ -9,12 +9,9 @@ cd "$(dirname "$0")"
 BINARY_PATH="/opt/drone/bin/app_robot"
 
 # 2. 설정 경로
-CONFIG_PATH="./configs/robot_1"
+CONFIG_PATH="./configs/robot_3"
 
-echo ">>> Robot 1 실행 중: ${BINARY_PATH} ${CONFIG_PATH}"
+echo ">>> Robot 3 실행 중: ${BINARY_PATH} ${CONFIG_PATH}"
 
 # 실행
 $BINARY_PATH $CONFIG_PATH
-
-# 실행 -> cout 에
-#$BINARY_PATH $CONFIG_PATH  &> ./cout/robot_1.log

@@ -2,6 +2,6 @@ id: [0,333]
 name: Zeratul
 type: fulfillment
 timer: 20 # ms
-version: coupang
+version: rovify
 site: sejong
 environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

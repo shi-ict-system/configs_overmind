@@ -6,7 +6,7 @@ connector_lists:
 - name: joystick
   use: true
 - name: motions
-  use: false
+  use: true
 - name: localizers
   use: true
 - name: safety_plc
