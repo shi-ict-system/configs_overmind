@@ -4,9 +4,9 @@ connector_lists:
 - name: gui
   use: false
 - name: joystick
-  use: true
-- name: motions
   use: false
+- name: motions
+  use: true
 - name: localizers
   use: true
 - name: safety_plc

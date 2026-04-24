@@ -1,0 +1,7 @@
+# log 설정값 조정하기.
+logging:
+   path: "./logs/robot_3"
+   level: "INFO"
+   async:
+       queue_size: 8192
+       threads: 1
