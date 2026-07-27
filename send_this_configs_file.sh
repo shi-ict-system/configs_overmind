@@ -28,7 +28,11 @@ echo "------------------------------------------------------------"
 echo "Step 1: Compressing internal contents into $ARCHIVE_NAME..."
 # -c: create, -z: gzip, -v: verbose, -f: file
 # --exclude: do not include the archive itself if it already exists
-tar -czf "$SCRIPT_DIR/$ARCHIVE_NAME" -C "$SCRIPT_DIR" --exclude="$ARCHIVE_NAME" .
+tar -czf "$SCRIPT_DIR/$ARCHIVE_NAME" \
+    --exclude="$ARCHIVE_NAME" \
+    --exclude="*/logs/*" \
+    --exclude="*/logs" \
+    -C "$SCRIPT_DIR" .
 
 # 2. Verify rsync is installed
 if ! command -v rsync &> /dev/null; then
@@ -37,7 +41,7 @@ if ! command -v rsync &> /dev/null; then
 fi
 
 # 3. Transfer the directory using rsync
-echo "Step 2: Starting transfer of '$DIR_NAME' (including archive)..."
+echo "Step 2: Starting transfer of '$DIR_NAME' (including archive, excluding logs)..."
 rsync -avz --progress "$SCRIPT_DIR" "$REMOTE_USER@$REMOTE_HOST:$REMOTE_DEST"
 
 echo "------------------------------------------------------------"

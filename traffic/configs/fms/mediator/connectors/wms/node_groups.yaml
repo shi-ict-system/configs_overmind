@@ -11,11 +11,3 @@ node_groups:
     nodes: [49,50,51,52,53,54]
   - name: "unloading_zone3"
     nodes: [35,36,37,38,40,41,42]
-  - name: "parking_zone_1"
-    nodes: [208,207]
-  - name: "parking_zone_2"
-    nodes: [208,207]
-  - name: "parking_zone_3"
-    nodes: [203,204]
-  - name: "parking_zone_4"
-    nodes: [205,206]
