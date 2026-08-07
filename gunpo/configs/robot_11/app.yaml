@@ -1,0 +1,6 @@
+id: [0, 11]
+name: Jim Raynor
+type: fulfillment
+timer: 20 # ms
+site: sejong
+environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

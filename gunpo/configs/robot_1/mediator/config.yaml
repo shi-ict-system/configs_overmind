@@ -10,7 +10,7 @@ connector_lists:
 - name: localizers
   use: true
 - name: safety_plc
-  use: false
+  use: true
 - name: load_handler
   use: true
 - name: manipulators
