@@ -1,21 +1,21 @@
 timer: 20 #ms
 thread_pool: 6 # >0
 server_list:
-- id: [0,1]
+- id: [2201,1]
   use: true
   ip: 127.0.0.1
   port: 22001
   period: 30 #ms
-- id: [0,2]
+- id: [2301,2]
   use: true
   ip: 127.0.0.1
   port: 22002
   period: 30 #ms
-- id: [0,3]
-  use: true
-  ip: 127.0.0.1
-  port: 22003
-  period: 30 #ms
+# - id: [0,3]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22003
+#   period: 30 #ms
 # - id: [0,4]
 #   use: true
 #   ip: 127.0.0.1
