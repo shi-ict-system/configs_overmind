@@ -1,0 +1,54 @@
+[2026-08-11 16:38:01.965873] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965875] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965878] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:38:01.965878] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965995] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:38:01.990642] [INFO] [framework] after init 실행
+[2026-08-11 16:38:01.990953] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:40:31.639703] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:40:31.639709] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:40:31.639710] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:40:31.639710] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:45:49.985314] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:45:49.985317] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:45:49.985320] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:45:49.985319] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:45:49.985434] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:45:50.010361] [INFO] [framework] after init 실행
+[2026-08-11 16:45:50.010661] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:47:42.769293] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:47:42.769299] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:47:42.769303] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:47:42.769303] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:49:24.400593] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:24.400598] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:24.400600] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.400601] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:49:24.400716] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:24.444890] [INFO] [framework] after init 실행
+[2026-08-11 16:49:24.445301] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:49:46.493667] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:46.493672] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:46.493677] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:46.493678] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:49:58.392908] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392911] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392913] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:49:58.392913] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:58.393023] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:58.419922] [INFO] [framework] after init 실행
+[2026-08-11 16:49:58.420266] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:52:17.138170] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:52:17.138178] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:52:17.138175] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:52:17.138180] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 16:52:17.138338] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:52:17.177041] [INFO] [framework] after init 실행
+[2026-08-11 16:52:17.177392] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:03:34.363099] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:03:34.363102] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:03:34.363105] [INFO] [framework] 설정 파일 위치 : ../configs/robot_8
+[2026-08-11 17:03:34.363105] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:03:34.363232] [INFO] [framework] ID[0, 8], 이름[조두팔], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:03:34.390189] [INFO] [framework] after init 실행
+[2026-08-11 17:03:34.390562] [INFO] [framework] 제어 쓰레드 시작

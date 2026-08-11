@@ -1,0 +1,31 @@
+>>> Robot 4 실행 중: /opt/drone/bin/app_robot ../configs/robot_4
+ 매개변수 갯수 : 2
+argv[1]../configs/robot_4
+Create node::Manager 
+LinkManger : ../configs/robot_4/mediator/graph_manager
+insert link : 1302->1302 already exist
+insert link : 1303->1303 already exist
+../configs/robot_4/mediator/config.yaml
+timer_ms : 50 thread_num : 1 port : 22004
+Acceptor [Start] :123736217389504
+[VelocityProfileManager] cofnig file : ../configs/robot_4/mediator/connectors/motions/velocity_profile.yaml
+Driver Type: differential
+Wheel Base: 0.5 m
+Wheel Radius: 0.08 m
+
+Constraints:
+type : manual max_icc_radius : 2.5 max_wheel_speed : 0.6 max_linear_speed : 0.5 max_angular_speed : 45
+type : manual_turbo max_icc_radius : 2.5 max_wheel_speed : 1.2 max_linear_speed : 1 max_angular_speed : 90
+type : automatic max_icc_radius : -1 max_wheel_speed : 2.2 max_linear_speed : 2 max_angular_speed : 40
+ pose_values[2] : -179.887 temp_info.pose.heading : -3.13962
+ [22.0036, 14.498, -179.887°]
+ [0.5m, 10°, 3sec]
+simul battery driver
+capacity[100, 12, 15] time[300, 180, 40] 
+simul charger driver
+
+Ctrl+C 시그널 감지, 종료 준비 중...
+프로그램 종료 중...
+~Application()
+~Mediator()
+terminate called without an active exception

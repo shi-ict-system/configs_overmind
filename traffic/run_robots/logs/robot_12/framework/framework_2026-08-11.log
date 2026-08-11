@@ -1,0 +1,53 @@
+[2026-08-11 16:38:01.973938] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:38:01.973947] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:38:01.973943] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:38:01.973947] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:38:01.974101] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:38:02.015199] [INFO] [framework] after init 실행
+[2026-08-11 16:38:02.015433] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:40:31.643674] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:40:31.643683] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:40:31.643679] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991532] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991537] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991536] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991538] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:45:49.991663] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:45:50.019224] [INFO] [framework] after init 실행
+[2026-08-11 16:45:50.019618] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:47:42.772188] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:47:42.772191] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:47:42.772193] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:47:42.772193] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.404615] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:24.404618] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:24.404622] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:49:24.404621] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.404755] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:24.433169] [INFO] [framework] after init 실행
+[2026-08-11 16:49:24.433539] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:49:46.498817] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:46.498823] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:46.498826] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:46.498828] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:49:58.399619] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:58.399629] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:58.399633] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:49:58.399631] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:58.399795] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:58.442023] [INFO] [framework] after init 실행
+[2026-08-11 16:49:58.442385] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:52:17.140220] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140227] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140224] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140227] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 16:52:17.140329] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:52:17.171571] [INFO] [framework] after init 실행
+[2026-08-11 16:52:17.171811] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:03:34.369619] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:03:34.369624] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:03:34.369625] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:03:34.369626] [INFO] [framework] 설정 파일 위치 : ../configs/robot_12
+[2026-08-11 17:03:34.369791] [INFO] [framework] ID[0, 12], 이름[차시비], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:03:34.397066] [INFO] [framework] after init 실행
+[2026-08-11 17:03:34.397310] [INFO] [framework] 제어 쓰레드 시작

@@ -1,0 +1,51 @@
+[2026-08-11 16:38:01.965023] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965026] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965029] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:38:01.965028] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:38:01.965128] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:38:01.991971] [INFO] [framework] after init 실행
+[2026-08-11 16:38:01.992252] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:40:31.637889] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:40:31.637892] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:40:31.637895] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:40:31.637895] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:45:49.986553] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:45:49.986559] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:45:49.986561] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:45:49.986561] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:45:49.986732] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:45:50.031052] [INFO] [framework] after init 실행
+[2026-08-11 16:45:50.031425] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:47:42.766419] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:47:42.766425] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.396793] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:24.396796] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:24.396799] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:49:24.396798] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.396924] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:24.423992] [INFO] [framework] after init 실행
+[2026-08-11 16:49:24.424396] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:49:46.492338] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:46.492349] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:46.492422] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392053] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392057] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392061] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:49:58.392060] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:58.392187] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:58.420150] [INFO] [framework] after init 실행
+[2026-08-11 16:49:58.420420] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:52:17.137016] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:52:17.137022] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:52:17.137021] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:52:17.137022] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 16:52:17.137178] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:52:17.170615] [INFO] [framework] after init 실행
+[2026-08-11 16:52:17.170853] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:03:34.363917] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:03:34.363922] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:03:34.363926] [INFO] [framework] 설정 파일 위치 : ../configs/robot_7
+[2026-08-11 17:03:34.363925] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:03:34.364123] [INFO] [framework] ID[0, 7], 이름[장세븐], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:03:34.390946] [INFO] [framework] after init 실행
+[2026-08-11 17:03:34.391229] [INFO] [framework] 제어 쓰레드 시작

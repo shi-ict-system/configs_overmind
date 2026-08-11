@@ -1,0 +1,36 @@
+[2026-08-11 16:38:01.963273] [INFO] [mediator] 생성
+[2026-08-11 16:38:02.005822] [INFO] [mediator] connectors 생성
+[2026-08-11 16:38:02.008088] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:38:02.008285] [INFO] [mediator] any map 등록
+[2026-08-11 16:38:02.008292] [INFO] [mediator] any collector 등록
+[2026-08-11 16:38:02.008295] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:45:49.982438] [INFO] [mediator] 생성
+[2026-08-11 16:45:50.025663] [INFO] [mediator] connectors 생성
+[2026-08-11 16:45:50.027135] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:45:50.027146] [INFO] [mediator] any map 등록
+[2026-08-11 16:45:50.027157] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:45:50.027153] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:24.395623] [INFO] [mediator] 생성
+[2026-08-11 16:49:24.439377] [INFO] [mediator] connectors 생성
+[2026-08-11 16:49:24.441359] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:49:24.441374] [INFO] [mediator] any map 등록
+[2026-08-11 16:49:24.441387] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:24.441390] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:49:58.389183] [INFO] [mediator] 생성
+[2026-08-11 16:49:58.414493] [INFO] [mediator] connectors 생성
+[2026-08-11 16:49:58.415592] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:49:58.415605] [INFO] [mediator] any map 등록
+[2026-08-11 16:49:58.415628] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:58.415632] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:52:17.131816] [INFO] [mediator] 생성
+[2026-08-11 16:52:17.176153] [INFO] [mediator] connectors 생성
+[2026-08-11 16:52:17.177430] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:52:17.177438] [INFO] [mediator] any map 등록
+[2026-08-11 16:52:17.177444] [INFO] [mediator] any collector 등록
+[2026-08-11 16:52:17.177446] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:03:34.358423] [INFO] [mediator] 생성
+[2026-08-11 17:03:34.402097] [INFO] [mediator] connectors 생성
+[2026-08-11 17:03:34.403559] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:03:34.403563] [INFO] [mediator] any map 등록
+[2026-08-11 17:03:34.403570] [INFO] [mediator] any collector 등록
+[2026-08-11 17:03:34.403575] [INFO] [mediator] any collector 목록 검사

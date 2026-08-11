@@ -1,0 +1,12 @@
+device: /dev/input/js0
+thread period: 5                    # ms
+type: 2                             
+reconnectoring period: 1000         #ms
+
+#####################################
+# driver type
+# 0 : xbox
+# 1 : sn3pro
+# 2 : 8bitdo ultimate2
+# 3 : xbox_wire
+######################################

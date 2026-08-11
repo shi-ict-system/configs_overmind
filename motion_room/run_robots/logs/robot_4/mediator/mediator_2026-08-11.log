@@ -1,0 +1,84 @@
+[2026-08-11 16:38:01.963273] [INFO] [mediator] 생성
+[2026-08-11 16:38:02.005822] [INFO] [mediator] connectors 생성
+[2026-08-11 16:38:02.008088] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:38:02.008285] [INFO] [mediator] any map 등록
+[2026-08-11 16:38:02.008292] [INFO] [mediator] any collector 등록
+[2026-08-11 16:38:02.008295] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:45:49.982438] [INFO] [mediator] 생성
+[2026-08-11 16:45:50.025663] [INFO] [mediator] connectors 생성
+[2026-08-11 16:45:50.027135] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:45:50.027146] [INFO] [mediator] any map 등록
+[2026-08-11 16:45:50.027157] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:45:50.027153] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:24.395623] [INFO] [mediator] 생성
+[2026-08-11 16:49:24.439377] [INFO] [mediator] connectors 생성
+[2026-08-11 16:49:24.441359] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:49:24.441374] [INFO] [mediator] any map 등록
+[2026-08-11 16:49:24.441387] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:24.441390] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:49:58.389183] [INFO] [mediator] 생성
+[2026-08-11 16:49:58.414493] [INFO] [mediator] connectors 생성
+[2026-08-11 16:49:58.415592] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:49:58.415605] [INFO] [mediator] any map 등록
+[2026-08-11 16:49:58.415628] [INFO] [mediator] any collector 등록
+[2026-08-11 16:49:58.415632] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 16:52:17.131816] [INFO] [mediator] 생성
+[2026-08-11 16:52:17.176153] [INFO] [mediator] connectors 생성
+[2026-08-11 16:52:17.177430] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 16:52:17.177438] [INFO] [mediator] any map 등록
+[2026-08-11 16:52:17.177444] [INFO] [mediator] any collector 등록
+[2026-08-11 16:52:17.177446] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:03:34.358423] [INFO] [mediator] 생성
+[2026-08-11 17:03:34.402097] [INFO] [mediator] connectors 생성
+[2026-08-11 17:03:34.403559] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:03:34.403563] [INFO] [mediator] any map 등록
+[2026-08-11 17:03:34.403570] [INFO] [mediator] any collector 등록
+[2026-08-11 17:03:34.403575] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:24:37.812427] [INFO] [mediator] 생성
+[2026-08-11 17:24:37.842270] [INFO] [mediator] connectors 생성
+[2026-08-11 17:24:37.843365] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:24:37.843376] [INFO] [mediator] any map 등록
+[2026-08-11 17:24:37.843391] [INFO] [mediator] any collector 등록
+[2026-08-11 17:24:37.843395] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:27:18.496697] [INFO] [mediator] 생성
+[2026-08-11 17:27:18.531363] [INFO] [mediator] connectors 생성
+[2026-08-11 17:27:18.532489] [INFO] [mediator] any map 등록
+[2026-08-11 17:27:18.532486] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:27:18.532497] [INFO] [mediator] any collector 등록
+[2026-08-11 17:27:18.532501] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:27:55.412717] [INFO] [mediator] 생성
+[2026-08-11 17:27:55.441116] [INFO] [mediator] connectors 생성
+[2026-08-11 17:27:55.442205] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:27:55.442216] [INFO] [mediator] any map 등록
+[2026-08-11 17:27:55.442224] [INFO] [mediator] any collector 등록
+[2026-08-11 17:27:55.442228] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:34:46.267333] [INFO] [mediator] 생성
+[2026-08-11 17:34:46.318627] [INFO] [mediator] connectors 생성
+[2026-08-11 17:34:46.320150] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:34:46.320165] [INFO] [mediator] any map 등록
+[2026-08-11 17:34:46.320174] [INFO] [mediator] any collector 등록
+[2026-08-11 17:34:46.320177] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:40:32.788176] [INFO] [mediator] 생성
+[2026-08-11 17:40:32.833582] [INFO] [mediator] connectors 생성
+[2026-08-11 17:40:32.834600] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:40:32.834609] [INFO] [mediator] any map 등록
+[2026-08-11 17:40:32.834615] [INFO] [mediator] any collector 등록
+[2026-08-11 17:40:32.834618] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:44:21.652647] [INFO] [mediator] 생성
+[2026-08-11 17:44:21.703857] [INFO] [mediator] connectors 생성
+[2026-08-11 17:44:21.705330] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:44:21.705349] [INFO] [mediator] any map 등록
+[2026-08-11 17:44:21.705356] [INFO] [mediator] any collector 등록
+[2026-08-11 17:44:21.705359] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:45:51.299083] [INFO] [mediator] 생성
+[2026-08-11 17:45:51.328682] [INFO] [mediator] connectors 생성
+[2026-08-11 17:45:51.329750] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:45:51.329757] [INFO] [mediator] any map 등록
+[2026-08-11 17:45:51.329765] [INFO] [mediator] any collector 등록
+[2026-08-11 17:45:51.329768] [INFO] [mediator] any collector 목록 검사
+[2026-08-11 17:50:10.511884] [INFO] [mediator] 생성
+[2026-08-11 17:50:10.562564] [INFO] [mediator] connectors 생성
+[2026-08-11 17:50:10.564019] [INFO] [mediator] connector 의존성 주입
+[2026-08-11 17:50:10.564022] [INFO] [mediator] any map 등록
+[2026-08-11 17:50:10.564029] [INFO] [mediator] any collector 등록
+[2026-08-11 17:50:10.564032] [INFO] [mediator] any collector 목록 검사

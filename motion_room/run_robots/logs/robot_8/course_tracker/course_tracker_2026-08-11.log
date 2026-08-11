@@ -1,0 +1,193 @@
+[2026-08-11 16:38:01.990935] [INFO] [course_tracker] 생성
+[2026-08-11 16:38:01.990951] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 16:45:50.010642] [INFO] [course_tracker] 생성
+[2026-08-11 16:45:50.010659] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 16:49:24.445241] [INFO] [course_tracker] 생성
+[2026-08-11 16:49:24.445260] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 16:49:58.420248] [INFO] [course_tracker] 생성
+[2026-08-11 16:49:58.420262] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 16:50:30.221374] [INFO] [course_tracker] 방향 정렬 완료 
+[2026-08-11 16:50:51.981569] [INFO] [course_tracker] 목적지에서 각도 정렬 : [16.000m 22.000m 0.000°]
+[2026-08-11 16:51:42.169316] [INFO] [course_tracker] 목적지에서 각도 정렬 : [5.500m 5.500m 0.000°]
+[2026-08-11 16:52:17.177368] [INFO] [course_tracker] 생성
+[2026-08-11 16:52:17.177387] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 16:52:56.604334] [INFO] [course_tracker] 방향 정렬 완료 
+[2026-08-11 16:53:31.975768] [INFO] [course_tracker] 목적지에서 각도 정렬 : [1.000m 4.000m 0.000°]
+[2026-08-11 16:54:45.935634] [INFO] [course_tracker] 목적지에서 각도 정렬 : [22.000m 19.000m 0.000°]
+[2026-08-11 17:00:54.826903] [INFO] [course_tracker] 목적지에서 각도 정렬 : [25.000m 7.000m 0.000°]
+[2026-08-11 17:01:55.367907] [INFO] [course_tracker] 목적지에서 각도 정렬 : [22.000m 14.500m 0.000°]
+[2026-08-11 17:03:34.390542] [INFO] [course_tracker] 생성
+[2026-08-11 17:03:34.390559] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:04:10.701017] [INFO] [course_tracker] 방향 정렬 완료 
+[2026-08-11 17:04:50.961504] [INFO] [course_tracker] 목적지에서 각도 정렬 : [11.500m 14.500m 0.000°]
+[2026-08-11 17:09:17.235181] [INFO] [course_tracker] 목적지에서 각도 정렬 : [5.500m 4.000m 0.000°]
+[2026-08-11 17:12:15.066302] [INFO] [course_tracker] 목적지에서 각도 정렬 : [25.000m 7.000m 0.000°]
+[2026-08-11 17:24:37.871203] [INFO] [course_tracker] 생성
+[2026-08-11 17:24:37.871226] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:25:00.088675] [INFO] [course_tracker] 목적지에서 각도 정렬 : [6.500m 19.000m 0.000°]
+[2026-08-11 17:27:18.537778] [INFO] [course_tracker] 생성
+[2026-08-11 17:27:18.537800] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:27:55.470419] [INFO] [course_tracker] 생성
+[2026-08-11 17:27:55.470438] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:29:02.859033] [INFO] [course_tracker] 목적지에서 각도 정렬 : [34.800m 19.000m 0.000°]
+[2026-08-11 17:30:55.968250] [INFO] [course_tracker] 목적지에서 각도 정렬 : [50.000m 19.000m 0.000°]
+[2026-08-11 17:32:02.225342] [INFO] [course_tracker] 목적지에서 각도 정렬 : [9.500m 19.000m 0.000°]
+[2026-08-11 17:33:20.372766] [INFO] [course_tracker] 목적지에서 각도 정렬 : [5.000m 14.500m 0.000°]
+[2026-08-11 17:40:32.830653] [INFO] [course_tracker] 생성
+[2026-08-11 17:40:32.830677] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:40:42.012763] [INFO] [course_tracker] 방향 정렬 설정 State::processing[＋, 89.9°]
+[2026-08-11 17:40:42.132480] [INFO] [course_tracker] 방향 정렬 완료 
+[2026-08-11 17:41:14.887372] [INFO] [course_tracker] 목적지에서 각도 정렬 : [26.000m 16.000m 0.000°]
+[2026-08-11 17:44:21.702830] [INFO] [course_tracker] 생성
+[2026-08-11 17:44:21.702843] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:45:07.899438] [INFO] [course_tracker] 목적지에서 각도 정렬 : [5.000m 14.500m 0.000°]
+[2026-08-11 17:45:51.333909] [INFO] [course_tracker] 생성
+[2026-08-11 17:45:51.333923] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:50:10.548930] [INFO] [course_tracker] 생성
+[2026-08-11 17:50:10.548952] [INFO] [course_tracker] 파라미터 : 
+◈ node_bound[0.020m, 0.150m, 0.005m]
+ • approach[0.150m, 0.050m/s, -0.005m, -0.200m, 0.100m]
+ • align[(10.000°, 5.000°/s), 50.000°, 30.000°/s), 0.800°, -0.100°]
+◈ motion param : 
+ • reference_angle[0.000°, 45.000°]
+ • threshold_angle[15.000°, 20.000°, 170.000°]
+ • threshold_error[0.300°, 5.000°]
+ • normal[0.150m/s, 8.000, 0.800m/s, 0.500]
+ • angle[0.150m/s, 1.500, 0.800m/s, 2.100]
+ • protection_overshoot[0.100m/s, 0.900, 0.500m/s, 0.900]
+ • speed_rotation[15.000°/s]
+[2026-08-11 17:51:10.494462] [INFO] [course_tracker] 목적지에서 각도 정렬 : [9.500m 19.000m 0.000°]
+[2026-08-11 17:56:12.839963] [INFO] [course_tracker] 목적지에서 각도 정렬 : [6.500m 14.500m 0.000°]
+[2026-08-11 17:57:36.662770] [INFO] [course_tracker] 목적지에서 각도 정렬 : [24.500m 11.500m 0.000°]

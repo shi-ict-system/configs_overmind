@@ -1,0 +1,127 @@
+[2026-08-11 16:38:01.971350] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:38:01.971355] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:38:01.971354] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:38:01.971356] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:38:01.971467] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:38:01.998776] [INFO] [framework] after init 실행
+[2026-08-11 16:38:01.999249] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:40:31.641189] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:40:31.641193] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:40:31.641194] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:40:31.641194] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:40:31.641322] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:40:31.666198] [INFO] [framework] after init 실행
+[2026-08-11 16:40:31.666436] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:45:49.991730] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991738] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991736] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:45:49.991739] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:45:49.991904] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:45:50.024194] [INFO] [framework] after init 실행
+[2026-08-11 16:45:50.024581] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:47:42.772691] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:47:42.772697] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:47:42.772700] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:47:42.772701] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:49:24.401367] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:24.401373] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:24.401370] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:24.401373] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:49:24.401496] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:24.427717] [INFO] [framework] after init 실행
+[2026-08-11 16:49:24.427972] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:49:46.495590] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:46.495594] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:46.495593] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:58.398748] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:49:58.398753] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:49:58.398755] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:49:58.398754] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:49:58.398907] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:49:58.434458] [INFO] [framework] after init 실행
+[2026-08-11 16:49:58.434765] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 16:52:17.140396] [INFO] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140400] [WARNING] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140402] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 16:52:17.140401] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 16:52:17.140531] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 16:52:17.169574] [INFO] [framework] after init 실행
+[2026-08-11 16:52:17.169993] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:03:34.368465] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:03:34.368470] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:03:34.368471] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:03:34.368472] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:03:34.368621] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:03:34.412147] [INFO] [framework] after init 실행
+[2026-08-11 17:03:34.412697] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:24:37.820890] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:24:37.820894] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:24:37.820896] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:24:37.820896] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:24:37.821019] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:24:37.850824] [INFO] [framework] after init 실행
+[2026-08-11 17:24:37.851135] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:26:43.240560] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:26:43.240563] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:26:43.240566] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:26:43.240566] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:27:18.501890] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:27:18.501893] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:27:18.501894] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:27:18.501894] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:27:18.501999] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:27:18.534762] [INFO] [framework] after init 실행
+[2026-08-11 17:27:18.535066] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:27:37.756495] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:27:37.756501] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:27:37.756502] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:27:37.756502] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:27:55.420299] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:27:55.420302] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:27:55.420305] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:27:55.420304] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:27:55.420395] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:27:55.449616] [INFO] [framework] after init 실행
+[2026-08-11 17:27:55.449864] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:34:34.371226] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:34:34.371232] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:34:34.371233] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:34:34.371234] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:34:46.276142] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:34:46.276152] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:34:46.276148] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:40:32.797429] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:40:32.797434] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:40:32.797436] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:40:32.797435] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:40:32.797598] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:40:32.844257] [INFO] [framework] after init 실행
+[2026-08-11 17:40:32.844829] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:43:43.846744] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:43:43.846754] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:43:43.846750] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:44:21.659885] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:44:21.659890] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:44:21.659888] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:44:21.659891] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:44:21.660008] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:44:21.692290] [INFO] [framework] after init 실행
+[2026-08-11 17:44:21.692638] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:45:27.769342] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:45:27.769347] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:45:27.769348] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:45:27.769349] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:45:51.305272] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:45:51.305275] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:45:51.305278] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:45:51.305277] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:45:51.305392] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:45:51.337497] [INFO] [framework] after init 실행
+[2026-08-11 17:45:51.338175] [INFO] [framework] 제어 쓰레드 시작
+[2026-08-11 17:50:10.521196] [INFO] [framework] 프로그램 시작
+[2026-08-11 17:50:10.521201] [WARNING] [framework] 프로그램 시작
+[2026-08-11 17:50:10.521203] [INFO] [framework] 설정 파일 위치 : ../configs/robot_11
+[2026-08-11 17:50:10.521203] [CRITICAL] [framework] 프로그램 시작
+[2026-08-11 17:50:10.521363] [INFO] [framework] ID[0, 11], 이름[손일일], 제어주기[20ms], 버젼[], 장소[우리집], 환경모드[simulation]
+[2026-08-11 17:50:10.571575] [INFO] [framework] after init 실행
+[2026-08-11 17:50:10.571970] [INFO] [framework] 제어 쓰레드 시작

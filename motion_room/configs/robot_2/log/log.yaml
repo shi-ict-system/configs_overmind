@@ -4,4 +4,4 @@ logging:
    level: "INFO"
    async:
        queue_size: 8192
-       threads: 1
+       threads: 2

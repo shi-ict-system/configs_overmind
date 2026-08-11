@@ -14,7 +14,7 @@ CONFIG_PATH="./configs/robot_1"
 echo ">>> Robot 1 실행 중: ${BINARY_PATH} ${CONFIG_PATH}"
 
 # 실행
-#$BINARY_PATH $CONFIG_PATH
+ $BINARY_PATH $CONFIG_PATH
 
 # 실행 -> cout 에
-$BINARY_PATH $CONFIG_PATH  &> ./cout/robot_1.log
+#$BINARY_PATH $CONFIG_PATH  &> ./cout/robot_1.cs

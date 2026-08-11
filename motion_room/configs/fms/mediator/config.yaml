@@ -1,0 +1,12 @@
+connector_lists:
+- name: fleet
+  use: true
+- name: gui
+  use: true
+- name: wms
+  use: true
+- name: remote_io
+  use: false
+- name: manipulators
+  use: false
+

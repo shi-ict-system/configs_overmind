@@ -1,0 +1,30 @@
+>>> Robot 12 실행 중: /opt/drone/bin/app_robot ../configs/robot_12
+ 매개변수 갯수 : 2
+argv[1]../configs/robot_12
+Create node::Manager 
+LinkManger : ../configs/robot_12/mediator/graph_manager
+../configs/robot_12/mediator/config.yaml
+timer_ms : 50 thread_num : 1 port : 22012
+Acceptor [Start] :123941463845312
+[VelocityProfileManager] cofnig file : ../configs/robot_12/mediator/connectors/motions/velocity_profile.yaml
+Driver Type: differential
+Wheel Base: 0.5 m
+Wheel Radius: 0.08 m
+
+Constraints:
+type : manual max_icc_radius : 2.5 max_wheel_speed : 0.6 max_linear_speed : 0.5 max_angular_speed : 45
+type : manual_turbo max_icc_radius : 2.5 max_wheel_speed : 1.2 max_linear_speed : 1 max_angular_speed : 90
+type : automatic max_icc_radius : -1 max_wheel_speed : 2.2 max_linear_speed : 2 max_angular_speed : 40
+ pose_values[2] : -179.385 temp_info.pose.heading : -3.13086
+ [5.50386, 6.99823, -179.385°]
+ [0.5m, 10°, 3sec]
+simul battery driver
+capacity[100, 10, 70] time[300, 180, 20] 
+simul charger driver
+[Path::clear_path_before_node_current][152] list empty
+
+Ctrl+C 시그널 감지, 종료 준비 중...
+프로그램 종료 중...
+~Application()
+~Mediator()
+terminate called without an active exception
