@@ -1,0 +1,38 @@
+node_bound:
+  minimum: 0.020 # m
+  maximum: 0.150 # m
+  parity:  0.005 # m
+
+at_target:
+  approach:
+    radius: 0.15 #m
+    speed:  0.05 # m/s
+    margin: -0.005 #m
+    sensing_start: -0.20 #m
+    sensing_end:  0.10 #m
+  align:
+    angle_speed_min: [10.0, 5.0]    # ° °/s
+    angle_speed_max: [50.0, 30.0]   # ° °/s
+    tolerance: 0.8    # °
+    margin: -0.1      # ° (> -tolerance) -0.1
+
+motion:
+  reference_angle:
+    straight: 0.0
+    curve: 45.0
+  threshold_angle:
+    straight: 15.0    # °
+    curve: 20.0       # °
+    inverse: 170.0    # °
+  threshold_error:
+    normal: 0.3
+    angle: 5.0
+  gain_list:
+    normal: [0.15, 8.0, 0.8, 0.5]
+    angle:  [0.15, 1.5, 0.8, 2.1]
+#    protection_overshoot: [0.1, 0.9, 0.5, 0.70] #0.68
+    protection_overshoot: [0.1, 0.9, 0.5, 0.90] # simul
+  speed_rotation: 15 # °/s
+
+
+

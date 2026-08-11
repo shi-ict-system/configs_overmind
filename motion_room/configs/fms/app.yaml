@@ -1,7 +1,7 @@
-id: [123,4567]
-name: Yggdrasil
-type: fulfillment
-timer: 50 # ms
-version: coupang
-site: sejong
-environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
+who_i_am:
+  id: [123,4567]
+  name: Yggdrasil
+  type: fulfillment
+  site: 세종
+  control_period: 30 # ms
+  environment_mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

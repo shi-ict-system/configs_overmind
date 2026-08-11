@@ -1,7 +1,7 @@
-id: [0, 111]
-name: Jim Raynor
-type: fulfillment
-timer: 20 # ms
-version: coupang
-site: sejong
-environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
+who_i_am:
+  id: [0, 1]
+  name: 김첫째
+  type: fulfillment
+  site: 우리집
+  control_period: 20 # ms
+  environment_mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
