@@ -1,0 +1,10 @@
+table_speed:
+  node_current: 0.0
+  node_next:  0.0
+  node_2: 0.3
+  node_3: 0.8
+  node_4: 1.3
+  node_5: 1.8
+
+
+
