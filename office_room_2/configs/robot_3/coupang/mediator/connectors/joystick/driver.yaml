@@ -1,7 +1,0 @@
-device: /dev/input/js2
-thread period: 5                    # ms
-type: 3                             # xbox : 0, sn30pro : 1 
-                                    # 8bitdo ultimate2 : 2, xbox_wire : 3
-                                    # 버튼은 xbox 기준으로 통일
-reconnectoring period: 1000         #ms
-

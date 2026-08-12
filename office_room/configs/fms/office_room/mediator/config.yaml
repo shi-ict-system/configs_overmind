@@ -1,9 +1,0 @@
-connector_lists:
-- name: fleet
-  use: true
-- name: gui
-  use: true
-- name: wms
-  use: false
-- name: remote_io
-  use: false
