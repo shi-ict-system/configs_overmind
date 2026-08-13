@@ -1,6 +1,6 @@
 driver type: differential
 wheel:
-  base: 0.5           # m 
+  track_width: 0.5           # m 
   radius: 0.08        # m
 
 
