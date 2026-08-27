@@ -1,0 +1,82 @@
+list:
+- id: [100015, 100001]
+  keyword: docking_to_charger
+  level: info
+  timeout: 5
+  content: 자동 충전 시작.
+  description:
+    korean: 자동 충전이 시작되었습니다.
+    english: Automatic charging has started.
+    chinese: 自动充电已开始。
+    spanish: La carga automática ha comenzado.
+
+- id: [100015, 100002]
+  keyword: fully_charged
+  level: info
+  timeout: 5
+  content: 배터리 가득.
+  description:
+    korean: 배터리가 가득찼습니다.
+    english: The battery is fully charged.
+    chinese: 电池已充满。
+    spanish: La batería está completamente cargada.
+
+- id: [100015, 100003]
+  keyword: undocking_from_charger_start
+  level: info
+  timeout: 5
+  content: 자동 충전 해제 시작.
+  description:
+    korean: 자동 충전이 해제가 시작되었습니다
+    english: 
+    chinese: 
+    spanish:
+
+- id: [100015, 100004]
+  keyword: undocking_from_charger_end
+  level: info
+  timeout: 5
+  content: 자동 충전 해제 완료.
+  description:
+    korean: 자동 충전이 해제가 완료 되었습니다..
+    english: Automatic charging has been cancelled.
+    chinese: 自动充电已取消。
+    spanish: La carga automática ha sido cancelada.
+
+
+- id: [100015, 200001]
+  keyword: remaining_capacity_warn
+  level: warn
+  timeout: 0
+  content: 배터리 남은 양 - 주의
+  description:
+    korean: 배터리 남은 양이 주의 상태에 도달하였습니다. 새로운 job을 받지 않습니다.
+    english: Battery level has reached a warning state. No new jobs will be accepted.
+    chinese: 电池电量已达到警告状态。将不再接受新任务。
+    spanish: El nivel de batería ha alcanzado un estado de advertencia. No se aceptarán nuevos trabajos.
+
+
+
+- id: [100015, 300001]
+  keyword: remaining_capacity_error
+  level: error
+  timeout: 0
+  content: 배터리 남은 양 - 에러
+  description:
+    korean: 배터리 남은 양이 에러 상태에 도달하였습니다. 자동 명령을 받지 않습니다. 수동 조작을 통해 충전하시기 바랍니다.
+    english: Battery level has reached an error state. Automatic commands will not be accepted. Please charge the robot manually.
+    chinese: 电池电量已达到错误状态。将不再接受自动指令。请通过手动操作进行充电。
+    spanish: El nivel de batería ha alcanzado un estado de error. No se aceptarán comandos automáticos. Por favor, cargue el robot manualmente.
+
+
+
+- id: [100015, 400001]
+  keyword: remaining_capacity_critical
+  level: critical
+  timeout: 0
+  content: 배터리 남은 양 - 위험
+  description:
+    korean: 배터리 남은 양이 위험 상태에 도달하였습니다. 1분 후, 로봇은 자동 종료됩니다.
+    english: Battery level has reached a critical state. The robot will automatically shut down in 1 minute.
+    chinese: 电池电量已达到危急状态。1分钟后，机器人将自动关机。
+    spanish: El nivel de batería ha alcanzado un estado crítico. El robot se apagará automáticamente en 1 minuto.

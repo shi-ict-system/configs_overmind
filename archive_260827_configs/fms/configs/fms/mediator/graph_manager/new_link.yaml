@@ -1,0 +1,583 @@
+total_number: 83
+list:
+  - id_from_to: [1000, 1001]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1001, 1002]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1004, 1005]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1005, 1006]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1006, 1007]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [7, 1021]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1021, 1022]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1022, 1023]
+    accel_speed: [0.5, 0.8]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1002, 1]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1027, 1028]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1029, 1030]
+    accel_speed: [0.5, 1.2]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1031, 1032]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1037, 1038]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1043, 1044]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1044, 1045]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1055, 1056]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1058, 3]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1058, 1027]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1038, 1043]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1050, 1060]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1060, 1051]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [3, 1058]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1044, 5]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [5, 1044]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1060, 51]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [51, 1060]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1038, 53]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [53, 1038]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1032, 102]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [102, 1032]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1032, 1037]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1028, 1069]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1069, 1070]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1070, 1029]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1030, 1071]
+    accel_speed: [0.5, 1.2]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1071, 1031]
+    accel_speed: [0.5, 1.2]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1, 1002]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1073, 1074]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1075, 1076]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1072, 1073]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1074, 1018]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1018, 1075]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1076, 1019]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1031, 1087]
+    accel_speed: [0.5, 1.2]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1087, 1072]
+    accel_speed: [0.5, 1.2]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1019, 1086]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1086, 7]
+    accel_speed: [0.5, 1.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1007, 1027]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1045, 1050]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1051, 1055]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1023, 1089]
+    accel_speed: [0.5, 0.8]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1089, 1000]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1056, 1088]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1088, 1024]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1024, 1025]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1026, 1058]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1025, 1092]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1051, 501]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [501, 1051]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1092, 1025]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1049, 1095]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1095, 1049]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1049, 1046]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1046, 1049]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1097, 1098]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1050, 1096]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1096, 1049]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1049, 1094]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1094, 1098]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1098, 1026]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1025, 1097]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1023, 1024]
+    accel_speed: [0.5, 1]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [52, 1045]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1045, 52]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1002, 1004]
+    accel_speed: [0.5, 0.7]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1004, 11]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [11, 1004]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1005, 2]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [2, 1005]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1027, 1099]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1099, 1090]
+    accel_speed: [0.5, 0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1090, 1099]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0
+  - id_from_to: [1099, 1027]
+    accel_speed: [0.5, -0.5]
+    motion: 1
+    dof: 1
+    safety_zone: 1
+    enable_sensors: 15
+    cost_time: 0

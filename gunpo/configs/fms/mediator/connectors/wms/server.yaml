@@ -1,3 +1,4 @@
 timer: 50 #ms
 thread_pool: 1 # >0
 port: 26001  #이거 몇으로 하지
+# web_path: "/opt/overload/share/overload/wms_web" # 모의 WMS 웹 정적 파일 경로 (비워두면 자동 감지)

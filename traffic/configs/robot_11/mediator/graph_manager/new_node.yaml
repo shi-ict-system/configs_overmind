@@ -8,6 +8,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 2
     type: 1
     pose: [5.5, 20.5, 0]
@@ -16,6 +19,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 3
     type: 1
     pose: [7, 20.5, 0]
@@ -24,6 +30,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 4
     type: 1
     pose: [8.5, 20.5, 0]
@@ -32,6 +41,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 5
     type: 1
     pose: [11.5, 19.8, 0]
@@ -40,6 +52,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 6
     type: 1
     pose: [13, 19.8, 0]
@@ -48,6 +63,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 7
     type: 1
     pose: [14.5, 19.8, 0]
@@ -56,6 +74,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 8
     type: 1
     pose: [5, 24, 0]
@@ -64,6 +85,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 9
     type: 1
     pose: [4.5, 24, 0]
@@ -72,6 +96,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 10
     type: 1
     pose: [5.5, 17.5, 0]
@@ -80,6 +107,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 11
     type: 1
     pose: [7, 17.5, 0]
@@ -88,6 +118,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 12
     type: 1
     pose: [8.5, 17.5, 0]
@@ -96,6 +129,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 13
     type: 1
     pose: [11.5, 18.2, 0]
@@ -104,6 +140,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 14
     type: 1
     pose: [13, 18.2, 0]
@@ -112,6 +151,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 15
     type: 1
     pose: [14.5, 18.2, 0]
@@ -120,6 +162,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 16
     type: 1
     pose: [5.5, 24, 0]
@@ -128,6 +173,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 17
     type: 1
     pose: [14.5, -4, 0]
@@ -136,6 +184,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 18
     type: 1
     pose: [14.5, 8, 0]
@@ -144,6 +195,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 19
     type: 1
     pose: [14.5, 7, 0]
@@ -152,6 +206,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 20
     type: 1
     pose: [14.5, 6, 0]
@@ -160,6 +217,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 21
     type: 1
     pose: [14.5, 5, 0]
@@ -168,6 +228,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 22
     type: 1
     pose: [14.5, 4, 0]
@@ -176,6 +239,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 23
     type: 1
     pose: [14.5, 3, 0]
@@ -184,6 +250,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 24
     type: 1
     pose: [14.5, 2, 0]
@@ -192,6 +261,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 25
     type: 1
     pose: [14.5, 1, 0]
@@ -200,6 +272,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 26
     type: 1
     pose: [15.5, -4, 0]
@@ -208,6 +283,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 27
     type: 1
     pose: [15.5, 8, 0]
@@ -216,6 +294,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 28
     type: 1
     pose: [15.5, 7, 0]
@@ -224,6 +305,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 29
     type: 1
     pose: [15.5, 6, 0]
@@ -232,6 +316,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 30
     type: 1
     pose: [15.5, 5, 0]
@@ -240,6 +327,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 31
     type: 1
     pose: [15.5, 4, 0]
@@ -248,6 +338,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 32
     type: 1
     pose: [15.5, 3, 0]
@@ -256,6 +349,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 33
     type: 1
     pose: [15.5, 2, 0]
@@ -264,6 +360,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 34
     type: 1
     pose: [15.5, 1, 0]
@@ -272,6 +371,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 35
     type: 1
     pose: [11.5, 7, 0]
@@ -280,6 +382,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 36
     type: 1
     pose: [11.5, 5.5, 0]
@@ -288,6 +393,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 37
     type: 1
     pose: [11.5, 4, 0]
@@ -296,6 +404,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 38
     type: 1
     pose: [11.5, 2.5, 0]
@@ -304,6 +415,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 39
     type: 1
     pose: [10, 7, 0]
@@ -312,6 +426,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 40
     type: 1
     pose: [10, 5.5, 0]
@@ -320,6 +437,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 41
     type: 1
     pose: [10, 4, 0]
@@ -328,6 +448,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 42
     type: 1
     pose: [10, 2.5, 0]
@@ -336,6 +459,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 43
     type: 1
     pose: [29.5, 20.5, 0]
@@ -344,6 +470,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 44
     type: 1
     pose: [28, 20.5, 0]
@@ -352,6 +481,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 45
     type: 1
     pose: [26.5, 20.5, 0]
@@ -360,6 +492,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 46
     type: 1
     pose: [29.5, 17.5, 0]
@@ -368,6 +503,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 47
     type: 1
     pose: [28, 17.5, 0]
@@ -376,6 +514,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 48
     type: 1
     pose: [26.5, 17.5, 0]
@@ -384,6 +525,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 49
     type: 1
     pose: [29.5, 15.3, 0]
@@ -392,6 +536,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 50
     type: 1
     pose: [28, 15.3, 0]
@@ -400,6 +547,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 51
     type: 1
     pose: [26.5, 15.3, 0]
@@ -408,6 +558,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 52
     type: 1
     pose: [29.5, 13.63, 0]
@@ -416,6 +569,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 53
     type: 1
     pose: [28, 13.7, 0]
@@ -424,6 +580,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 54
     type: 1
     pose: [26.5, 13.7, 0]
@@ -432,6 +591,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 55
     type: 1
     pose: [28, 2.5, 0]
@@ -440,6 +602,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 56
     type: 1
     pose: [28, 1, 0]
@@ -448,6 +613,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 57
     type: 1
     pose: [29.5, 2.5, 0]
@@ -456,6 +624,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 58
     type: 1
     pose: [29.49, 1, 0]
@@ -464,6 +635,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 59
     type: 1
     pose: [31, 2.5, 0]
@@ -472,6 +646,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 60
     type: 1
     pose: [31, 1, 0]
@@ -480,6 +657,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 101
     type: 0
     pose: [5.5, -4, 0]
@@ -488,6 +668,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 102
     type: 2
     pose: [5.5, 7, 0]
@@ -496,6 +679,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 103
     type: 2
     pose: [5.5, 5.5, 0]
@@ -504,6 +690,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 104
     type: 2
     pose: [5.5, 4, 0]
@@ -512,6 +701,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 105
     type: 2
     pose: [5.5, 2.5, 0]
@@ -520,6 +712,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 106
     type: 0
     pose: [6, -4, 0]
@@ -528,6 +723,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 107
     type: 0
     pose: [6.5, -4, 0]
@@ -536,6 +734,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 108
     type: 2
     pose: [22, 19, 0]
@@ -544,6 +745,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 109
     type: 2
     pose: [22, 17.5, 0]
@@ -552,6 +756,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 110
     type: 2
     pose: [22, 15.99, 0]
@@ -560,6 +767,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 111
     type: 2
     pose: [22, 14.5, 0]
@@ -568,6 +778,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 112
     type: 0
     pose: [7, -4, 0]
@@ -576,6 +789,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 201
     type: 3
     pose: [11.5, 14.5, 0]
@@ -584,6 +800,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 202
     type: 3
     pose: [13, 14.5, 0]
@@ -592,6 +811,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 203
     type: 3
     pose: [1, 5.5, 0]
@@ -600,6 +822,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 204
     type: 3
     pose: [1, 4, 0]
@@ -608,6 +833,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 205
     type: 3
     pose: [23.5, 7, 0]
@@ -616,6 +844,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 206
     type: 3
     pose: [25, 7, 0]
@@ -624,6 +855,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 207
     type: 3
     pose: [35.5, 16, 0]
@@ -632,6 +866,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 208
     type: 3
     pose: [35.5, 17.5, 0]
@@ -640,6 +877,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1001
     type: 0
     pose: [13, 10, 0]
@@ -648,6 +888,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1002
     type: 0
     pose: [14.5, 10, 0]
@@ -656,6 +899,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1003
     type: 0
     pose: [16, 10, 0]
@@ -664,6 +910,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1004
     type: 0
     pose: [17.5, 10, 0]
@@ -672,6 +921,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1005
     type: 0
     pose: [19, 10, 0]
@@ -680,6 +932,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1006
     type: 0
     pose: [20.5, 10, 0]
@@ -688,6 +943,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1007
     type: 0
     pose: [23.5, 11.5, 0]
@@ -696,6 +954,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1008
     type: 0
     pose: [22, 11.5, 0]
@@ -704,6 +965,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1009
     type: 0
     pose: [20.5, 11.5, 0]
@@ -712,6 +976,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1010
     type: 0
     pose: [19, 11.5, 0]
@@ -720,6 +987,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1011
     type: 0
     pose: [17.5, 11.5, 0]
@@ -728,6 +998,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1012
     type: 0
     pose: [16, 11.5, 0]
@@ -736,6 +1009,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1013
     type: 0
     pose: [17.5, 8.5, 0]
@@ -744,6 +1020,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1014
     type: 0
     pose: [19, 5.5, 0]
@@ -752,6 +1031,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1015
     type: 0
     pose: [19.01, 7, 0]
@@ -760,6 +1042,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1016
     type: 0
     pose: [19, 8.5, 0]
@@ -768,6 +1053,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1017
     type: 0
     pose: [19, 13, 0]
@@ -776,6 +1064,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1018
     type: 0
     pose: [17.5, 16, 0]
@@ -784,6 +1075,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1019
     type: 0
     pose: [17.5, 14.5, 0]
@@ -792,6 +1086,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1020
     type: 0
     pose: [17.5, 13, 0]
@@ -800,6 +1097,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1021
     type: 0
     pose: [22, 10, 0]
@@ -808,6 +1108,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1022
     type: 0
     pose: [23.5, 10, 0]
@@ -816,6 +1119,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1023
     type: 0
     pose: [25, 10, 0]
@@ -824,6 +1130,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1024
     type: 0
     pose: [26.5, 10, 0]
@@ -832,6 +1141,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1025
     type: 0
     pose: [28, 10, 0]
@@ -840,6 +1152,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1026
     type: 0
     pose: [29.5, 10, 0]
@@ -848,6 +1163,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1027
     type: 0
     pose: [31, 10, 0]
@@ -856,6 +1174,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1028
     type: 0
     pose: [32.5, 10, 0]
@@ -864,6 +1185,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1029
     type: 0
     pose: [32.5, 11.5, 0]
@@ -872,6 +1196,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1030
     type: 0
     pose: [31, 11.5, 0]
@@ -880,6 +1207,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1031
     type: 0
     pose: [29.5, 11.5, 0]
@@ -888,6 +1218,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1032
     type: 0
     pose: [28, 11.5, 0]
@@ -896,6 +1229,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1033
     type: 0
     pose: [26.5, 11.5, 0]
@@ -904,6 +1240,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1034
     type: 0
     pose: [25, 11.5, 0]
@@ -912,6 +1251,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1035
     type: 0
     pose: [14.5, 11.5, 0]
@@ -920,6 +1262,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1036
     type: 0
     pose: [13, 11.5, 0]
@@ -928,6 +1273,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1037
     type: 0
     pose: [11.5, 11.5, 0]
@@ -936,6 +1284,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1038
     type: 0
     pose: [10, 11.5, 0]
@@ -944,6 +1295,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1039
     type: 0
     pose: [8.5, 11.5, 0]
@@ -952,6 +1306,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1040
     type: 0
     pose: [7, 11.5, 0]
@@ -960,6 +1317,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1041
     type: 0
     pose: [5.5, 11.5, 0]
@@ -968,6 +1328,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1042
     type: 0
     pose: [4, 11.5, 0]
@@ -976,6 +1339,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1043
     type: 0
     pose: [4, 10, 0]
@@ -984,6 +1350,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1044
     type: 0
     pose: [5.5, 10, 0]
@@ -992,6 +1361,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1045
     type: 0
     pose: [7, 10, 0]
@@ -1000,6 +1372,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1046
     type: 0
     pose: [8.5, 10, 0]
@@ -1008,6 +1383,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1047
     type: 0
     pose: [10, 10, 0]
@@ -1016,6 +1394,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1048
     type: 0
     pose: [11.5, 10, 0]
@@ -1024,6 +1405,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1049
     type: 0
     pose: [17.5, 7, 0]
@@ -1032,6 +1416,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1050
     type: 0
     pose: [17.5, 5.5, 0]
@@ -1040,6 +1427,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1051
     type: 0
     pose: [17.5, 4, 0]
@@ -1048,6 +1438,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1052
     type: 0
     pose: [17.5, 2.5, 0]
@@ -1056,6 +1449,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1053
     type: 0
     pose: [17.5, 1, 0]
@@ -1064,6 +1460,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1054
     type: 0
     pose: [22, -4, 0]
@@ -1072,6 +1471,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1055
     type: 0
     pose: [22.5, -4, 0]
@@ -1080,6 +1482,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1056
     type: 0
     pose: [23, -4, 0]
@@ -1088,6 +1493,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1057
     type: 0
     pose: [23.5, -4, 0]
@@ -1096,6 +1504,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1058
     type: 0
     pose: [24, -4, 0]
@@ -1104,6 +1515,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1059
     type: 0
     pose: [24.5, -4, 0]
@@ -1112,6 +1526,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1060
     type: 0
     pose: [19, 1, 0]
@@ -1120,6 +1537,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1061
     type: 0
     pose: [19, 2.5, 0]
@@ -1128,6 +1548,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1062
     type: 0
     pose: [19, 4, 0]
@@ -1136,6 +1559,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1063
     type: 0
     pose: [19, 14.5, 0]
@@ -1144,6 +1570,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1064
     type: 0
     pose: [19, 16, 0]
@@ -1152,6 +1581,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1065
     type: 0
     pose: [19, 17.5, 0]
@@ -1160,6 +1592,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1066
     type: 0
     pose: [19, 19, 0]
@@ -1168,6 +1603,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1067
     type: 0
     pose: [19, 20.5, 0]
@@ -1176,6 +1614,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1068
     type: 0
     pose: [22, 24, 0]
@@ -1184,6 +1625,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1069
     type: 0
     pose: [22.5, 24, 0]
@@ -1192,6 +1636,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1070
     type: 0
     pose: [23, 24, 0]
@@ -1200,6 +1647,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1071
     type: 0
     pose: [23.5, 24, 0]
@@ -1208,6 +1658,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1072
     type: 0
     pose: [24, 24, 0]
@@ -1216,6 +1669,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1073
     type: 0
     pose: [24.5, 24, 0]
@@ -1224,6 +1680,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1074
     type: 0
     pose: [17.5, 20.5, 0]
@@ -1232,6 +1691,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1075
     type: 0
     pose: [17.5, 19, 0]
@@ -1240,6 +1702,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1076
     type: 0
     pose: [17.5, 17.5, 0]
@@ -1248,6 +1713,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1077
     type: 0
     pose: [34, 11.5, 0]
@@ -1256,6 +1724,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1078
     type: 0
     pose: [34, 13, 0]
@@ -1264,6 +1735,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1079
     type: 0
     pose: [34, 14.5, 0]
@@ -1272,6 +1746,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1080
     type: 0
     pose: [34, 16, 0]
@@ -1280,6 +1757,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1081
     type: 0
     pose: [34, 17.5, 0]
@@ -1288,6 +1768,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1082
     type: 0
     pose: [34, 19, 0]
@@ -1296,6 +1779,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1083
     type: 0
     pose: [34, 20.5, 0]
@@ -1304,6 +1790,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1084
     type: 0
     pose: [34, 22, 0]
@@ -1312,6 +1801,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1085
     type: 0
     pose: [32.5, 22, 0]
@@ -1320,6 +1812,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1086
     type: 0
     pose: [31, 22, 0]
@@ -1328,6 +1823,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1087
     type: 0
     pose: [29.5, 22, 0]
@@ -1336,6 +1834,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1088
     type: 0
     pose: [28, 22, 0]
@@ -1344,6 +1845,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1089
     type: 0
     pose: [26.5, 22, 0]
@@ -1352,6 +1856,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1090
     type: 0
     pose: [25, 22, 0]
@@ -1360,6 +1867,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1091
     type: 0
     pose: [23.5, 22, 0]
@@ -1368,6 +1878,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1092
     type: 0
     pose: [22, 22, 0]
@@ -1376,6 +1889,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1093
     type: 0
     pose: [20.5, 22, 0]
@@ -1384,6 +1900,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1094
     type: 0
     pose: [19, 22, 0]
@@ -1392,6 +1911,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1095
     type: 0
     pose: [17.5, 22, 0]
@@ -1400,6 +1922,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1096
     type: 0
     pose: [16, 22, 0]
@@ -1408,6 +1933,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1097
     type: 0
     pose: [14.5, 22, 0]
@@ -1416,6 +1944,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1098
     type: 0
     pose: [13, 22, 0]
@@ -1424,6 +1955,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1099
     type: 0
     pose: [11.5, 22, 0]
@@ -1432,6 +1966,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1100
     type: 0
     pose: [10, 22, 0]
@@ -1440,6 +1977,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1101
     type: 0
     pose: [8.5, 22, 0]
@@ -1448,6 +1988,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1102
     type: 0
     pose: [7, 22, 0]
@@ -1456,6 +1999,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1103
     type: 0
     pose: [5.5, 22, 0]
@@ -1464,6 +2010,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1104
     type: 0
     pose: [4, 22, 0]
@@ -1472,6 +2021,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1105
     type: 0
     pose: [2.5, 22, 0]
@@ -1480,6 +2032,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1106
     type: 0
     pose: [2.48, 20.5, 0]
@@ -1488,6 +2043,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1107
     type: 0
     pose: [2.5, 19, 0]
@@ -1496,6 +2054,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1108
     type: 0
     pose: [2.5, 17.5, 0]
@@ -1504,6 +2065,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1109
     type: 0
     pose: [2.5, 16, 0]
@@ -1512,6 +2076,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1110
     type: 0
     pose: [2.5, 14.5, 0]
@@ -1520,6 +2087,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1111
     type: 0
     pose: [2.5, 13, 0]
@@ -1528,6 +2098,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1112
     type: 0
     pose: [2.5, 11.5, 0]
@@ -1536,6 +2109,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1113
     type: 0
     pose: [2.5, 10, 0]
@@ -1544,6 +2120,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1114
     type: 0
     pose: [2.5, 8.5, 0]
@@ -1552,6 +2131,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1115
     type: 0
     pose: [2.5, 7, 0]
@@ -1560,6 +2142,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1116
     type: 0
     pose: [2.5, 5.5, 0]
@@ -1568,6 +2153,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1117
     type: 0
     pose: [2.5, 4, 0]
@@ -1576,6 +2164,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1118
     type: 0
     pose: [2.5, 2.5, 0]
@@ -1584,6 +2175,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1119
     type: 0
     pose: [2.5, 1, 0]
@@ -1592,6 +2186,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1120
     type: 0
     pose: [2.5, -0.5, 0]
@@ -1600,6 +2197,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1121
     type: 0
     pose: [4, -0.5, 0]
@@ -1608,6 +2208,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1122
     type: 0
     pose: [5.5, -0.5, 0]
@@ -1616,6 +2219,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1123
     type: 0
     pose: [7, -0.5, 0]
@@ -1624,6 +2230,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1124
     type: 0
     pose: [8.5, -0.5, 0]
@@ -1632,6 +2241,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1125
     type: 0
     pose: [10, -0.5, 0]
@@ -1640,6 +2252,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1126
     type: 0
     pose: [11.5, -0.5, 0]
@@ -1648,6 +2263,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1127
     type: 0
     pose: [13, -0.5, 0]
@@ -1656,6 +2274,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1128
     type: 0
     pose: [14.5, -0.5, 0]
@@ -1664,6 +2285,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1129
     type: 0
     pose: [16, -0.5, 0]
@@ -1672,6 +2296,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1130
     type: 0
     pose: [17.5, -0.5, 0]
@@ -1680,6 +2307,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1131
     type: 0
     pose: [19, -0.5, 0]
@@ -1688,6 +2318,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1132
     type: 0
     pose: [20.5, -0.5, 0]
@@ -1696,6 +2329,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1133
     type: 0
     pose: [22, -0.5, 0]
@@ -1704,6 +2340,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1134
     type: 0
     pose: [23.5, -0.5, 0]
@@ -1712,6 +2351,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1135
     type: 0
     pose: [25, -0.5, 0]
@@ -1720,6 +2362,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1136
     type: 0
     pose: [26.5, -0.5, 0]
@@ -1728,6 +2373,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1137
     type: 0
     pose: [28, -0.5, 0]
@@ -1736,6 +2384,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1138
     type: 0
     pose: [29.5, -0.5, 0]
@@ -1744,6 +2395,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1139
     type: 0
     pose: [31, -0.5, 0]
@@ -1752,6 +2406,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1140
     type: 0
     pose: [32.5, -0.5, 0]
@@ -1760,6 +2417,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1141
     type: 0
     pose: [34, -0.5, 0]
@@ -1768,6 +2428,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1142
     type: 0
     pose: [34, 1, 0]
@@ -1776,6 +2439,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1143
     type: 0
     pose: [34, 2.5, 0]
@@ -1784,6 +2450,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1144
     type: 0
     pose: [34, 4, 0]
@@ -1792,6 +2461,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1145
     type: 0
     pose: [34, 5.5, 0]
@@ -1800,6 +2472,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1146
     type: 0
     pose: [34, 7, 0]
@@ -1808,6 +2483,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1147
     type: 0
     pose: [34, 8.5, 0]
@@ -1816,6 +2494,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1148
     type: 0
     pose: [34, 10, 0]
@@ -1824,6 +2505,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1149
     type: 0
     pose: [4, 19, 0]
@@ -1832,6 +2516,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1150
     type: 0
     pose: [5.5, 19, 0]
@@ -1840,6 +2527,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1151
     type: 0
     pose: [6.99, 19, 0]
@@ -1848,6 +2538,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1152
     type: 0
     pose: [8.5, 19, 0]
@@ -1856,6 +2549,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1153
     type: 0
     pose: [10, 19, 0]
@@ -1864,6 +2560,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1154
     type: 0
     pose: [11.5, 19, 0]
@@ -1872,6 +2571,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1155
     type: 0
     pose: [13, 19, 0]
@@ -1880,6 +2582,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1156
     type: 0
     pose: [14.5, 19, 0]
@@ -1888,6 +2593,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1157
     type: 0
     pose: [16, 19, 0]
@@ -1896,6 +2604,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1158
     type: 0
     pose: [16, 16, 0]
@@ -1904,6 +2615,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1159
     type: 0
     pose: [14.5, 16, 0]
@@ -1912,6 +2626,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1160
     type: 0
     pose: [13, 16, 0]
@@ -1920,6 +2637,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1161
     type: 0
     pose: [11.5, 16, 0]
@@ -1928,6 +2648,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1162
     type: 0
     pose: [10, 16, 0]
@@ -1936,6 +2659,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1163
     type: 0
     pose: [8.5, 16, 0]
@@ -1944,6 +2670,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1164
     type: 0
     pose: [7, 16, 0]
@@ -1952,6 +2681,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1165
     type: 0
     pose: [5.5, 16, 0]
@@ -1960,6 +2692,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1166
     type: 0
     pose: [4, 16, 0]
@@ -1968,6 +2703,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1167
     type: 0
     pose: [23.5, 13, 0]
@@ -1976,6 +2714,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1168
     type: 0
     pose: [23.5, 14.5, 0]
@@ -1984,6 +2725,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1169
     type: 0
     pose: [23.5, 16, 0]
@@ -1992,6 +2736,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1170
     type: 0
     pose: [23.5, 17.5, 0]
@@ -2000,6 +2747,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1171
     type: 0
     pose: [23.5, 19, 0]
@@ -2008,6 +2758,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1172
     type: 0
     pose: [23.5, 20.5, 0]
@@ -2016,6 +2769,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1173
     type: 0
     pose: [31, 20.5, 0]
@@ -2024,6 +2780,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1174
     type: 0
     pose: [31, 19, 0]
@@ -2032,6 +2791,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1175
     type: 0
     pose: [31, 17.5, 0]
@@ -2040,6 +2802,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1176
     type: 0
     pose: [31, 16, 0]
@@ -2048,6 +2813,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1177
     type: 0
     pose: [31, 14.5, 0]
@@ -2056,6 +2824,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1178
     type: 0
     pose: [31, 13, 0]
@@ -2064,6 +2835,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1179
     type: 0
     pose: [7, 1, 0]
@@ -2072,6 +2846,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1180
     type: 0
     pose: [7, 2.5, 0]
@@ -2080,6 +2857,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1181
     type: 0
     pose: [7, 4, 0]
@@ -2088,6 +2868,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1182
     type: 0
     pose: [7, 5.5, 0]
@@ -2096,6 +2879,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1183
     type: 0
     pose: [7, 7, 0]
@@ -2104,6 +2890,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1184
     type: 0
     pose: [7, 8.5, 0]
@@ -2112,6 +2901,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1185
     type: 0
     pose: [13, 1, 0]
@@ -2120,6 +2912,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1186
     type: 0
     pose: [13, 2.5, 0]
@@ -2128,6 +2923,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1187
     type: 0
     pose: [13, 4, 0]
@@ -2136,6 +2934,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1188
     type: 0
     pose: [13, 5.5, 0]
@@ -2144,6 +2945,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1189
     type: 0
     pose: [13, 7, 0]
@@ -2152,6 +2956,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1190
     type: 0
     pose: [13, 8.5, 0]
@@ -2160,6 +2967,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1191
     type: 0
     pose: [20.5, 4, 0]
@@ -2168,6 +2978,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1192
     type: 0
     pose: [22, 4, 0]
@@ -2176,6 +2989,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1193
     type: 0
     pose: [23.5, 4, 0]
@@ -2184,6 +3000,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1194
     type: 0
     pose: [25, 4, 0]
@@ -2192,6 +3011,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1195
     type: 0
     pose: [26.5, 4, 0]
@@ -2200,6 +3022,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1196
     type: 0
     pose: [28, 4, 0]
@@ -2208,6 +3033,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1197
     type: 0
     pose: [29.5, 4, 0]
@@ -2216,6 +3044,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1198
     type: 0
     pose: [31, 4, 0]
@@ -2224,6 +3055,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1199
     type: 0
     pose: [32.5, 4, 0]
@@ -2232,6 +3066,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1200
     type: 0
     pose: [22, 5.5, 0]
@@ -2240,6 +3077,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1201
     type: 0
     pose: [20.5, 5.5, 0]
@@ -2248,6 +3088,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1202
     type: 0
     pose: [23.5, 5.5, 0]
@@ -2256,6 +3099,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1203
     type: 0
     pose: [25, 5.5, 0]
@@ -2264,6 +3110,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1204
     type: 0
     pose: [26.5, 5.5, 0]
@@ -2272,6 +3121,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1205
     type: 0
     pose: [28, 5.5, 0]
@@ -2280,6 +3132,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1206
     type: 0
     pose: [29.49, 5.5, 0]
@@ -2288,6 +3143,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1207
     type: 0
     pose: [31, 5.5, 0]
@@ -2296,6 +3154,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1208
     type: 0
     pose: [32.5, 5.5, 0]
@@ -2304,6 +3165,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1243
     type: 0
     pose: [11.5, 8.5, 0]
@@ -2312,6 +3176,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1244
     type: 0
     pose: [11.5, 1, 0]
@@ -2320,6 +3187,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1245
     type: 0
     pose: [10, 8.5, 0]
@@ -2328,6 +3198,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1246
     type: 0
     pose: [10, 1, 0]
@@ -2336,6 +3209,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1247
     type: 0
     pose: [29.5, 19, 0]
@@ -2344,6 +3220,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1248
     type: 0
     pose: [28, 19, 0]
@@ -2352,6 +3231,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1249
     type: 0
     pose: [26.5, 19, 0]
@@ -2360,6 +3242,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1250
     type: 0
     pose: [29.5, 14.5, 0]
@@ -2368,6 +3253,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1251
     type: 0
     pose: [28, 14.5, 0]
@@ -2376,6 +3264,9 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
   - id: 1252
     type: 0
     pose: [26.5, 14.5, 0]
@@ -2384,3 +3275,6 @@ list:
     localizer_main_sub: [1, 0]
     storage_level_unload_load:
       - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""

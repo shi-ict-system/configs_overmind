@@ -43,7 +43,7 @@ list:
       - [100, 100]
     align: false
     action_command: ""
-    allowed_robot_type: ""
+    allowed_robot_type: "Forklift"
   - id: 9
     type: 1
     pose: [2.5, 14, 0]

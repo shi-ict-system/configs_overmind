@@ -1,6 +1,7 @@
-id: [2301, 2]
-name: Jim Raynor
-type: fulfillment
-timer: 20 # ms
-site: sejong
-environment mode: 0     # 0 : simulation, 1 : real, 2: test_in_place
+who_i_am:
+  id: [2301, 2]
+  name: 이돌돌
+  type: fulfillment
+  site: 우리집
+  control_period: 20 # ms
+  environment_mode: 0     # 0 : simulation, 1 : real, 2: test_in_place

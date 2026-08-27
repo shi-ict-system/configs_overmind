@@ -1,0 +1,761 @@
+total_number: 69
+list:
+  - id: 1
+    type: 2
+    pose: [7, 0.8, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 2
+    type: 2
+    pose: [10.5, 0.8, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 3
+    type: 1
+    pose: [12.1, 5.7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 5
+    type: 1
+    pose: [12, 8, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 7
+    type: 1
+    pose: [3, 8.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 11
+    type: 2
+    pose: [8.8, 0.8, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 14
+    type: 5
+    pose: [6.01, 6.85, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 51
+    type: 1
+    pose: [7.5, 10.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 52
+    type: 1
+    pose: [10.5, 10.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 53
+    type: 1
+    pose: [15, 10.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 102
+    type: 3
+    pose: [18, 10.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 500
+    type: 5
+    pose: [12, 7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 501
+    type: 1
+    pose: [6, 7.75, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1000
+    type: 0
+    pose: [3, 1.7, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1001
+    type: 0
+    pose: [4.5, 1.7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1002
+    type: 0
+    pose: [7, 1.7, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1004
+    type: 0
+    pose: [8.8, 1.7, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1005
+    type: 0
+    pose: [10.5, 1.7, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1006
+    type: 0
+    pose: [12, 1.7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1007
+    type: 0
+    pose: [13.5, 1.7, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1018
+    type: 0
+    pose: [10.5, 11.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1019
+    type: 0
+    pose: [3, 11.5, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1021
+    type: 0
+    pose: [3, 7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1022
+    type: 0
+    pose: [3, 5.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1023
+    type: 0
+    pose: [3, 4, 0]
+    radius_speed_accel: [0.4, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1024
+    type: 0
+    pose: [4.5, 4, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1025
+    type: 0
+    pose: [6, 4, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1026
+    type: 0
+    pose: [10.5, 4, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1027
+    type: 0
+    pose: [13.5, 4, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1028
+    type: 0
+    pose: [15, 4, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1029
+    type: 0
+    pose: [19.5, 4, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1030
+    type: 0
+    pose: [19.5, 5.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1031
+    type: 0
+    pose: [19.5, 9.5, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1032
+    type: 0
+    pose: [18, 9.5, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1037
+    type: 0
+    pose: [16.5, 9.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1038
+    type: 0
+    pose: [15, 9.5, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1039
+    type: 1
+    pose: [15.8, 7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1043
+    type: 0
+    pose: [13.5, 9.5, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1044
+    type: 0
+    pose: [12, 9.5, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1045
+    type: 0
+    pose: [10.5, 9.5, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1046
+    type: 1
+    pose: [11.1, 6.9, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1049
+    type: 0
+    pose: [9, 6.9, 0]
+    radius_speed_accel: [0.4, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1050
+    type: 0
+    pose: [9, 9.5, 0]
+    radius_speed_accel: [0.4, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1051
+    type: 0
+    pose: [6, 9.5, 0]
+    radius_speed_accel: [0.5, 1, 1]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1055
+    type: 0
+    pose: [4.5, 9.5, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1056
+    type: 0
+    pose: [4.5, 7.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1058
+    type: 0
+    pose: [12.1, 4, 0]
+    radius_speed_accel: [0.3, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1060
+    type: 0
+    pose: [7.5, 9.5, 0]
+    radius_speed_accel: [0.3, 1, 1]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1069
+    type: 0
+    pose: [16.5, 4, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1070
+    type: 0
+    pose: [18, 4, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1071
+    type: 0
+    pose: [19.5, 7.04, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1072
+    type: 0
+    pose: [19.5, 11.5, 0]
+    radius_speed_accel: [0.5, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1073
+    type: 0
+    pose: [16, 11.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1074
+    type: 0
+    pose: [13, 11.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1075
+    type: 0
+    pose: [8, 11.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1076
+    type: 0
+    pose: [5, 11.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1086
+    type: 0
+    pose: [3, 10, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1087
+    type: 1
+    pose: [19.5, 10.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1088
+    type: 0
+    pose: [4.5, 5.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1089
+    type: 0
+    pose: [3, 3, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1090
+    type: 1
+    pose: [13.5, 7, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1091
+    type: 5
+    pose: [14.89, 7.04, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1092
+    type: 1
+    pose: [6, 6, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1094
+    type: 0
+    pose: [9, 5.5, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1095
+    type: 1
+    pose: [6.9, 6.9, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1096
+    type: 0
+    pose: [8.99, 8.17, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1097
+    type: 0
+    pose: [7.53, 4, 0]
+    radius_speed_accel: [0, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1098
+    type: 0
+    pose: [9, 4, 0]
+    radius_speed_accel: [0.4, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""
+  - id: 1099
+    type: 0
+    pose: [13.5, 5.7, 0]
+    radius_speed_accel: [0.4, 0.3, 0.3]
+    map_name: conveyor_map
+    localizer_main_sub: [1, 0]
+    storage_level_unload_load:
+      - [100, 100]
+    align: false
+    action_command: ""
+    allowed_robot_type: ""

@@ -1,0 +1,9 @@
+capacity:           # % percent
+  max: 100
+  min: 80
+  current: 81
+time_to_discharge:  # s second
+  idle: 3000
+  working: 1800
+time_to_charge: 40
+

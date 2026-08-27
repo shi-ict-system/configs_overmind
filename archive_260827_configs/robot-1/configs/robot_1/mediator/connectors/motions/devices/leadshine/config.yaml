@@ -1,0 +1,24 @@
+comms:
+  address: /dev/pcanusb32
+  id:
+    left: 1
+    right: 2
+
+######################################
+#
+######################################
+mechanical:
+  gear_ratio: 19
+
+######################################
+# direction
+# 0 : forward
+# 1 : reverse
+######################################
+motors:
+  left:
+    count_per_revolution: 10000
+    direction: 1
+  right:
+    count_per_revolution: 10000
+    direction: 0

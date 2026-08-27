@@ -1,0 +1,78 @@
+timer: 20 #ms
+thread_pool: 6 # >0
+server_list:
+- id: [0,1]
+  use: true
+  ip: 192.168.100.101
+  port: 22001
+  period: 30 #ms
+- id: [0,2]
+  use: true
+  ip: 192.168.100.102
+  port: 22001
+  period: 30 #ms
+- id: [0,3]
+  use: true
+  ip: 192.168.100.103
+  port: 22001
+  period: 30 #ms
+# - id: [0,1]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22001
+#   period: 30 #ms
+# - id: [0,2]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22002
+#   period: 30 #ms
+# - id: [0,3]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22003
+#   period: 30 #ms
+# - id: [0,4]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22004
+#   period: 30 #ms
+# - id: [0,5]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22005
+#   period: 30 #ms
+# - id: [0,6]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22006
+#   period: 30 #ms
+# - id: [0,7]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22007
+#   period: 30 #ms
+# - id: [0,8]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22008
+#   period: 30 #ms
+# - id: [0,9]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22009
+#   period: 30 #ms
+# - id: [0,10]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22010
+#   period: 30 #ms
+# - id: [0,11]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22011
+#   period: 30 #ms
+# - id: [0,12]
+#   use: true
+#   ip: 127.0.0.1
+#   port: 22012
+#   period: 30 #ms

@@ -1,0 +1,4 @@
+# 260825 plz hold 100ms, lcw
+timer: 100 #ms
+thread_pool: 1 # >0
+port: 51001
